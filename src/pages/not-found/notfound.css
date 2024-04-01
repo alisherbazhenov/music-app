@@ -1,0 +1,13 @@
+.not__found {
+	width: 100%;
+	min-height: 100%;
+	overflow: hidden;
+	background-color: bisque;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.title__error {
+	color: black;
+}
